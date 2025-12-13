@@ -1,11 +1,11 @@
 # Task Explorer - Tasks and Scripts Visual Control
 
-| ![logo](res/img/logo-bl.png) | M.I.A.... A Short Story and an apology... From this extension's inception many years ago, to the time my beloved daughter and I were working on it together in 2022 and 2023 with her high hopes of it turning into a licensable product (i.e. *$$$* in her eyes), to the time life changed 4ever when I lost her in April of '23 and became undoubtedly 4everbroken, to now the present day... after the overwhelming pain of each and every day had started to seem normalized, what we had last worked on together I was finally able to pick back up and continue, and now the initial preview versions have started to be released. I sincerely apologize to all users for the absence of any development over the last few years.s | ![cmdline-banner](res/readme/cmdline-banner.png) |
-| ---------- | ------------------------------- | -------------------------------------------------------- |
+| ![logo](res/img/logo-bl.png) | M.I.A.... A Short Story and an apology... From this extension's inception many years ago, to the time my beloved daughter and I were working on it together in 2022 and 2023 with her high hopes of it turning into a licensable product (i.e. *$$$* in her eyes), to the time life changed 4ever when I lost her in April of '23 and became undoubtedly 4everbroken, to now the present day... after the overwhelming pain of each and every day had started to seem normalized, what we had last worked on together I was finally able to pick back up and continue, and now the initial preview versions have started to be released. I sincerely apologize to all users for the absence of any development over the last few years |
+| ------ | --------- |
 
 [![home](https://img.shields.io/badge/org-spmhome.io-0556d7.svg)](https://www.spmhome.io) [![vcs](https://img.shields.io/badge/vcs-gitlab-4287f5.svg)](https://gitlab.spmhome.io) [![projecttype](https://img.shields.io/badge/category-apps-4287f5.svg)](https://www.spmhome.io) [![projectlang](https://img.shields.io/badge/language-typescript-4287f5.svg)](https://www.spmhome.io) [![webpack-wrap](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-webpack--wrap-4287f5.svg)](https://gitlab.spmhome.io/spmhome/ci/webpack-wrap) [![app-publisher](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-app--publisher-4287f5.svg)](https://gitlab.spmhome.io/spmhome/ci/app-publisher) [![eslint-config](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-eslint--config-4287f5.svg)](https://gitlab.spmhome.io/spmhome/utils/eslint-config)
 
-[![package_json version](https://img.shields.io/github/package-json/v/spmeesseman/vscode%2dtaskexplorer.svg?logo=github)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) [![Installs](https://img.shields.io/visual-studio-marketplace/i/spmeesseman.vscode-taskexplorer.svg)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) [![Downloads](https://img.shields.io/visual-studio-marketplace/d/spmeesseman.vscode-taskexplorer.svg)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) [![Ratings](https://img.shields.io/visual-studio-marketplace/r/spmeesseman.vscode-taskexplorer.svg)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplore&ssr=false#review-details) [![GitHub issues open](https://img.shields.io/github/issues-raw/spmeesseman/vscode%2dtaskexplorer.svg?logo=github)](https://github.com/spmeesseman/vscode-taskexplorer/issues) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/spmeesseman/vscode%2dtaskexplorer.svg?logo=github)](https://github.com/spmeesseman/vscode-taskexplorer/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/spmeesseman/vscode%2dtaskexplorer.svg?logo=github)](https://github.com/spmeesseman/vscode-taskexplorer)
+[![package_json version](https://img.shields.io/github/package-json/v/spmeesseman/vscode%2dtaskexplorer.svg?logo=github)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) [![Installs](https://img.shields.io/visual-studio-marketplace/i/spmeesseman.vscode-taskexplorer.svg)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) [![Downloads](https://img.shields.io/visual-studio-marketplace/d/spmeesseman.vscode-taskexplorer.svg)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) [![LastReleased](https://img.shields.io/visual-studio-marketplace/last-updated/spmeesseman.vscode-taskexplorer)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) [![Ratings](https://img.shields.io/visual-studio-marketplace/r/spmeesseman.vscode-taskexplorer.svg)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplore&ssr=false#review-details) [![GitHub issues open](https://img.shields.io/github/issues-raw/spmeesseman/vscode%2dtaskexplorer.svg?logo=github)](https://github.com/spmeesseman/vscode-taskexplorer/issues) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/spmeesseman/vscode%2dtaskexplorer.svg?logo=github)](https://github.com/spmeesseman/vscode-taskexplorer/issues)
 
 ![src0](res/img/sources/npm.png) ![src1](res/img/sources/nodejs.png) ![src2](res/img/sources/python.png) ![src3](res/img/sources/workspace.png) ![src4](res/img/sources/ts.png) ![src5](res/img/sources/ant.png) ![src6](res/img/sources/yarn.png) ![src7](res/img/sources/eslint.png) ![src8](res/img/sources/grunt.png) ![src9](res/img/sources/gulp.png) ![src10](res/img/sources/ruby.png) ![src11](res/img/sources/powershell.png) ![src12](res/img/sources/gradle.png) ![src13](res/img/sources/cmake.png) ![src14](res/img/sources/make.png) ![src15](res/img/sources/bat.png) ![src16](res/img/sources/bash.png) ![src17](res/img/sources/nsis.png) ![src18](res/img/sources/webpack.png) ![src19](res/img/sources/maven.png)
 
@@ -198,16 +198,19 @@ For debugging or curiosity, sme initial reports or details pages can be generate
 - Integrated Web Portal pages providing settings configuration from a rich UI
 - React based Settings View providing settings configuration from a rich in-Vscode UI
 - Visual Studio Extension **preview** release
+- Eclipse Plugin **preview** release
 
 ## Roadmap Version 4 (Preliminary)
 
 - ASR support - configurable voice recognition
 - TTS support - configurable audible notifications
-- Smart Home support
+- Smarthome https/wss api service, if applicable
+- Smarthome device support, where and if applicable
+- Smarthome device control support, where and if applicable
 - Support multiple configurable instances of **TaskBuddy** View
-- ** Github Issues integration
-- ** Gitlab Issues integration
-- ** MantisBT Issues integration
+- Github Issues integration
+- Gitlab Issues integration
+- MantisBT Issues integration
 - Integrated Web Portal pages providing task automation from a rich UI
 - VSCode Web browser build
 
@@ -215,7 +218,7 @@ For debugging or curiosity, sme initial reports or details pages can be generate
 
 ![app-publisher-cmdline-banner](res/readme/cmdline-banner-ap.png) ![spmh-cmdline-banner2](res/readme/cmdline-banner.png)
 
-Integrates with the [app-publisher](https://gitlab.spmhome.io/spmhome/ci/app-publisher) and [webpack-wrap](https://gitlab.spmhome.io/spmhome/ci/webpack-wrap) utility packages that emulate a small scale ci environment run locally from a project workspace, i.e. *CI without the headache* for individual devs and small teams.
+Integrates with the [app-publisher](https://gitlab.spmhome.io/spmhome/ci/app-publisher) and [webpack-wrap](https://gitlab.spmhome.io/spmhome/ci/webpack-wrap) utility packages that emulate a small scale ci environment that can be ran locally from a development workspace, i.e. *CI without most of the headache* for lone devs and small teams.
 
 ## Feedback & Issues
 

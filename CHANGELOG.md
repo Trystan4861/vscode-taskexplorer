@@ -1,5 +1,36 @@
 # VSCODE-TASKEXPLORER CHANGE LOG
 
+## Version 3.0.5 (December 12th, 2025)
+
+### Documentation
+
+- **readme:** minor content updates
+- **welcome:** update some semi-important info on welcome page
+
+## Version 3.0.4 (December 12th, 2025)
+
+### Bug Fixes
+
+- **batch:** batch scripts should always auto-replace all path sep characters in the relative path of the script file to windows style slash when pased as arg to cmd 
+- **filewatcher:** tree refresh dos not consider new glob patterns until the next restart when a task provider's 'additional glob pattern' setting is changed (ant, bash, nodejs providers only) 
+- **shutdown:** some filewatcher event listeners are not getting disposed when a task provider is disabled and then re-enabled during the same runtime 
+- **workspace:** regression - removing a workspace folder(s) in a multi-root workspace is crashing the extension host 
+
+### Documentation
+
+- **readme:** update badges 
+- **readme:** add additional v3 content, prepare ending of preview phase 
+
+### Refactoring
+
+- **exports:** update tsconfig and npm package files to latest convention for exports, transpilatin,  code bundling and release configuration 
+- **startup:** add self-expiring info message about npm performance increase when disabling vsc auto detection 
+- fix(grouping: grouped node labels are created twice or more if the grouping level node label is not sorted alphabetically by task name in the source taskfile [skip ci]
+### Build System
+
+- **tsc:** update tsc configuration / compiler options / wpw rc using latest project convention 
+- **ap:** bump shared packages to most recent, update tsconfig file to support dependency package.json exports resolution
+
 ## Version 3.0.3 (November 11th, 2025)
 
 ### Bug Fixes
